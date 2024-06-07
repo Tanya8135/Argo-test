@@ -2,7 +2,7 @@
   "name": "argo-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Tanya8135/argo-test.git",
+  "homepage": "https://Tanya8135.github.io/argo-test/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
